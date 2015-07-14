@@ -6,7 +6,7 @@ A simple way of using [l20n](https://github.com/l20n/l20n.js) with [RequireJS](h
 
 ## L20nCtx Plugin
 
-It is a plugin which donwloads a localization file and create a context object for it. And no more worries about asynchronous parsing, because this plugin will return the context when it is ready to be used.
+It is a plugin which downloads a localization file and creates a context object for it. And no more worries about asynchronous parsing, because this plugin will return the context when it is ready to be used.
 
 The full API of the created context can be seen [here](https://github.com/l20n/l20n.js#the-javascript-api).
 
